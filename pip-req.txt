@@ -13,3 +13,5 @@ twython>=3.2.0
 six>=1.10.0
 regex>=2019.08.19
 
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
